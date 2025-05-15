@@ -18,6 +18,7 @@ Um sistema de gerenciamento de produtos, pedidos, cupons e estoque.
   - Entre R$52,00 e R$166,59: frete R$15,00
   - Acima de R$200,00: frete grátis
   - Outros valores: frete R$20,00
+
 - Consulta de CEP via API ViaCEP
 - Finalização de pedidos com envio de e-mail
 - Webhook para atualização de status de pedidos
@@ -265,3 +266,6 @@ Se o status for alterado para `cancelado`, o estoque será devolvido automaticam
 - Verificação de valor mínimo para aplicação de cupons
 - Controle automático de estoque ao processar pedidos
 - Cálculo automático de frete baseado no valor da compra
+
+
+<img width="1512" alt="Captura de Tela 2025-05-15 às 20 16 38" src="https://github.com/user-attachments/assets/ae84e26e-9a1f-481c-a2bb-8b7eed27ecb0" />
